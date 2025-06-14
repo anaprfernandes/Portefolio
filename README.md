@@ -17,6 +17,7 @@ I’m a final-year Biomedical Engineering student passionate about developing in
 
 
 🛠️ Skills
+
 CAD & Design: SolidWorks, Fusion 360, Inkscape, OpenSCAD, LibreCAD
 
 Programming: Python, HTML, PHP, SQL, C++, MATLAB/Octave
