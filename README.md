@@ -3,7 +3,7 @@ Biomedical Engineering Student | Medical Device Enthusiast | 3D Modeling & Progr
 
 📍 Lisboa, Portugal
 📧 anapatricia.rfernandes@gmail.com
-🔗 LinkedIn
+🔗 LinkedIn https://www.linkedin.com/in/ana-fernandes-ab0531256/ 
 
 💡 About Me
 I’m a final-year Biomedical Engineering student passionate about developing innovative healthcare technologies. My academic and professional journey spans medical device design, tissue engineering, and hands-on 3D modeling. With experience from my internship at Johnson & Johnson and an Erasmus program in Brussels, I bring both technical expertise and cross-cultural collaboration skills.
