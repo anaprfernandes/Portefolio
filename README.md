@@ -1,6 +1,6 @@
 👩‍🔬 Ana Fernandes
 
-Biomedical Engineering Student | Medical Device Enthusiast | 3D Modeling & Programming | Innovation in Healthcare
+Biomedical Engineer | Medical Device Enthusiast | 3D Modeling & Programming | Innovation in Healthcare
 
 
 
@@ -13,8 +13,8 @@ Biomedical Engineering Student | Medical Device Enthusiast | 3D Modeling & Progr
 
 💡 About Me
 
-I’m a final-year Biomedical Engineering student passionate about developing innovative healthcare technologies. My academic and professional journey spans medical device design, tissue engineering, and hands-on 3D modeling. With experience from my internship at Johnson & Johnson and an Erasmus program in Brussels, I bring both technical expertise and cross-cultural collaboration skills.
-
+I’m a Biomedical Engineer passionate about developing innovative healthcare technologies. My academic and professional journey spans medical device design, tissue engineering, and hands-on 3D modeling. With experience from my internship at Johnson & Johnson and an Erasmus program in Brussels, I bring both technical expertise and cross-cultural collaboration skills.
+My master’s thesis focused on tissue engineering and additive manufacturing, with a particular emphasis on biomaterials and regenerative medicine.
 
 🛠️ Skills
 
@@ -31,11 +31,11 @@ Languages: Portuguese (native), English (C1), Spanish (B1), French (A1)
 
 🎓 Integrated Master’s in Biomedical Engineering
 
-NOVA School of Science and Technology (2020–Present)
+NOVA School of Science and Technology (2020–2025)
 
 Specialization: Biomechanics, Biomaterials, Medical Imaging, Signal Analysis
 
-Thesis: Aligned Ice-Templated Scaffolds via Additive Manufacturing
+Thesis: Aligned Ice-Templated Scaffolds via Additive Manufacturing, CENIMAT|i3N
 
 🇧🇪 Erasmus Program
 
@@ -65,6 +65,7 @@ President – Welcoming Committee for new Biomedical Engineering students
 President – General Assembly of the Students' Association
 
 Youth Parliament & Euroschool presenter at the Portuguese Parliament
+
 
 📈 Projects & Activities
 
